@@ -1,0 +1,9 @@
+USE HospitalDB;
+
+DROP TABLE IF EXISTS DoctorsExaminations;
+DROP TABLE IF EXISTS Donations;
+DROP TABLE IF EXISTS Examinations;
+DROP TABLE IF EXISTS Sponsors;
+DROP TABLE IF EXISTS Wards;
+DROP TABLE IF EXISTS Departments;
+DROP TABLE IF EXISTS Doctors;
